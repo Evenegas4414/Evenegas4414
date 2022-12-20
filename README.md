@@ -2,13 +2,11 @@
 
 ## 🚀 Sobre mi
 
-🎓 Mi nombre es Exequiel Venegas, soy **Desarrollador Full Stack Java** (preferentemente back-end). Soy egresado de Edutecno Bootcamp Full Stack Java y actualmente participo en el programa Oracle Next Education.
+🎓 Mi nombre es Exequiel Venegas, soy **Desarrollador Full Stack Java** (preferentemente back-end). Soy egresado de Edutecno Bootcamp Full Stack Java y del programa Oracle Next Education.
 
 👨‍💻 Disfruto desarrollando mis habilidades de programación, revisando código para aprender algo nuevo cada día. Estoy aprendiendo Angular y profundizando mis conocimientos sobre Spring, en el área de seguridad. Soy entusiasta en aprender nuevas tecnologías.
 
-🌻 Mis pasatiempos son la botánica y pescar, me agrada trabajar en la naturaleza con animales. Soy aficionado a la exploración en la naturaleza. También me gusta hacer ejercicios para mejor mi salud.
-
-📚 Me gusta leer libros, algunos de mis favoritos son "Stern's introductory plant biology" y "Peterson Field Guide". También me gustan los libros de matemáticas, como "Calculo de una variable" de James Stewart. En general mis lecturas son para aprender.
+🌻 Mis pasatiempos son la botánica y pescar, me agrada trabajar en la naturaleza con animales. Soy aficionado a la exploración en la naturaleza.
 
 ## 🛠️ Aptitudes Técnicas
 
