@@ -4,7 +4,7 @@
 
 🎓 Mi nombre es Exequiel Venegas, soy **Desarrollador Full Stack Java** (preferentemente back-end). Soy egresado de Edutecno Bootcamp Full Stack Java y del programa Oracle Next Education.
 
-👨‍💻 Disfruto desarrollando mis habilidades de programación, revisando código para aprender algo nuevo cada día. Estoy aprendiendo Angular y profundizando mis conocimientos sobre Spring, en el área de seguridad. Soy entusiasta en aprender nuevas tecnologías.
+👨‍💻 Disfruto desarrollando mis habilidades de programación, revisando código para aprender algo nuevo cada día. Actualmente profundizando mis conocimientos sobre Spring y Apache Spark. Soy entusiasta en aprender nuevas tecnologías.
 
 🌻 Mis pasatiempos son la botánica y pescar, me agrada trabajar en la naturaleza con animales. Soy aficionado a la exploración en la naturaleza.
 
@@ -31,11 +31,6 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Servicios de Backend
-
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Bases de datos
 
@@ -69,6 +64,14 @@
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+### Misceláneo
+![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
+![Apache Kafka](https://a11ybadges.com/badge?logo=apachekafka)
+![Apache JMeter](https://a11ybadges.com/badge?logo=apachejmeter)
+![Apache Maven](https://a11ybadges.com/badge?logo=apachemaven)
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Otros
 
